@@ -1,0 +1,8 @@
+.banner {
+    background-color: hsl(0deg 0% 91.37%);
+    text-align: right;
+}
+
+.banner.img {
+    max-width: 100%;
+}
